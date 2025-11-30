@@ -21,8 +21,8 @@
         <mxCell id="sQG05p_757bJUbqArA3t-5" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;设备驱动抽象层&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
           <mxGeometry x="290" y="580" width="230" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="sQG05p_757bJUbqArA3t-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="585" width="120" height="60" as="geometry" />
+        <mxCell id="sQG05p_757bJUbqArA3t-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="sQG05p_757bJUbqArA3t-5">
+          <mxGeometry y="30" width="230" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
