@@ -8,7 +8,7 @@
           <mxGeometry x="270" y="390" width="310" height="160" as="geometry" />
         </mxCell>
         <mxCell id="sQG05p_757bJUbqArA3t-3" value="&lt;span style=&quot;font-weight: 400;&quot;&gt;用户空间：FUSE接口&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;startSize=30;" vertex="1" parent="1">
-          <mxGeometry x="40" y="240" width="220" height="180" as="geometry">
+          <mxGeometry x="290" y="110" width="220" height="180" as="geometry">
             <mxRectangle x="20" y="230" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
