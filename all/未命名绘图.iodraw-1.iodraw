@@ -9,7 +9,7 @@
             <mxRectangle x="380" y="420" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WZPKtgI3_tvmFJVyCCTf-115" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WZPKtgI3_tvmFJVyCCTf-115" value="udp_in()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
