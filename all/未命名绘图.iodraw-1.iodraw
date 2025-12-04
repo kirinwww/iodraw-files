@@ -5,9 +5,12 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="WZPKtgI3_tvmFJVyCCTf-114" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="240" width="200" height="200" as="geometry">
+          <mxGeometry x="100" y="240" width="700" height="100" as="geometry">
             <mxRectangle x="380" y="420" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WZPKtgI3_tvmFJVyCCTf-115" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
