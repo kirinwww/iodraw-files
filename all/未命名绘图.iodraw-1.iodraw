@@ -24,8 +24,11 @@
         <mxCell id="WZPKtgI3_tvmFJVyCCTf-119" value="icmp_in()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WZPKtgI3_tvmFJVyCCTf-117">
           <mxGeometry x="300" y="20" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WZPKtgI3_tvmFJVyCCTf-120" value="udp_in()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WZPKtgI3_tvmFJVyCCTf-117">
+        <mxCell id="WZPKtgI3_tvmFJVyCCTf-120" value="icmp_resp()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WZPKtgI3_tvmFJVyCCTf-117">
           <mxGeometry x="470" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WZPKtgI3_tvmFJVyCCTf-121" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="420" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
